@@ -1,1 +1,7 @@
 Aqui no hay nada interesante
+He vuelto atras a este momento antes de borrar este archivo
+de forma que pueda comprobar el funcionamiento de git.
+He marcado este commit con un tag 
+Estoy modificando este archivo.
+lo voy a guardar con el nombre de ramaseca.
+Creare otro txt de nombre: brozaseca.txt

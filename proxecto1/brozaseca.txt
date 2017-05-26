@@ -1,0 +1,157 @@
+cat datos.txt
+	
+Contraer
+WLE Austria Logo (no text).svg
+Concurso Wiki Loves Earth: En mayo, descubre el patrimonio natural español, sube tus fotos, ayuda a Wikipedia y podrás ganar premios: ¡Participa!
+Script
+Para otros usos de este término, véase Script (desambiguación).
+
+En informática, un script, archivo de órdenes, archivo de procesamiento por lotes o, cada vez más aceptado en círculos profesionales1 y académicos, guion2 3 4 es un programa usualmente simple, que por lo regular se almacena en un archivo de texto plano. Los guiones son casi siempre interpretados, pero no todo programa interpretado es considerado un guion. El uso habitual de los guiones es realizar diversas tareas como combinar componentes, interactuar con el sistema operativo o con el usuario. Por este uso es frecuente que los intérpretes de órdenes sean a la vez intérpretes de este tipo de programas.
+
+Índice
+
+    1 En el sistema operativo
+        1.1 En UNIX
+        1.2 En Windows y DOS
+    2 En diseño web
+        2.1 Guiones del lado del cliente
+        2.2 Guiones del lado del servidor
+    3 Traducción
+    4 Véase también
+    5 Referencias
+    6 Enlaces externos
+
+En el sistema operativo
+En UNIX
+
+Los archivos guion suelen ser identificados por el sistema a través de uno de los siguientes encabezamientos en el contenido del archivo, conocido como shebang:
+
+#!/bin/bash ; #!/bin/ksh ; #!/bin/csh
+
+Aunque en entornos UNIX la mayoría de los guiones son identificados por dicho encabezamiento, también pueden ser identificados a través de la extensión ".sh", siendo esta quizá menos importante que el encabezamiento, ya que casi todos los sistemas no necesitan dicha extensión para ejecutar el guion, por lo tanto, esta suele ser añadida por tradición, o más bien, es útil para que el usuario pueda identificar estos archivos a través de una interfaz de línea de comandos sin necesidad de abrirlo.
+
+Difieren de los programas de aplicación, debido a que los últimos son más complejos; además, los guiones son más bien un programa que le da instrucciones a otros más avanzados.
+En Windows y DOS
+
+En el sistema operativo DOS, a los guiones creados para ser interpretados por cmd.exe o el obsoleto COMMAND.COM se les conoce como archivos «batch» (procesamiento por lotes) y acaban en .bat. En el sistema operativo Windows, existen varios lenguajes interpretados como Visual Basic Script, JavaScript, WScript, Batch .
+En diseño web
+
+Los guiones en Internet se pueden clasificar en guiones del lado del cliente y del lado del servidor.
+Guiones del lado del cliente
+Artículo principal: JavaScript
+
+Los guiones del lado del cliente se deben incluir con la etiqueta <script>, incluyendo el atributo type con el tipo MIME.
+
+Generalmente se usa JavaScript, pero se puede usar VBScript (solo Internet Explorer o Google Chrome). Tiene como objetivo, por lo general, AJAX o manipulación del DOM.
+Guiones del lado del servidor
+Artículo principal: Script del lado del servidor
+Véanse también: JSP, Active Server Pages, PHP y Common Gateway Interface.
+
+No tienen los problemas de accesibilidad que pueden presentar los guiones del lado del cliente. También permiten modificar las cabeceras HTTP, u obtenerlas. Además, permiten acceso a bases de datos y otros archivos internos.
+Traducción
+
+El término inglés script se tomó del guion escrito de las artes escénicas, el cual es interpretado por una serie de actores/actrices (o, en este caso, programas) siguiendo un orden establecido.
+
+En muchos textos se traduce script como «guion».5 Esta traducción de momento está empezando a establecerse y es bastante frecuente en el ámbito de algunas comunidades y publicaciones sobre software libre, como el equipo de traducción de KDE, que traduce en la mayoría de las aplicaciones para este escritorio script como «guion»,6 7 o diversas guías y manuales de software.8 9 No obstante su uso es todavía minoritario a nivel general, pero junto con la expresión «archivo de órdenes» empleada en América es la castellanización más difundida.
+Véase también
+
+    Shell (informática)
+
+Referencias
+
+Ayuda de FileMaker Pro: Referencia de pasos de guiones. http://www.filemaker.com/es/11help/html/help_script_cat.34.1.html
+Lenguajes de guiones. Facultad de Informática, Universidad Politécnica de Madrid. http://lml.ls.fi.upm.es/ep/script.html
+Programación con lenguajes de guion en páginas web. Universidad Laboral. http://www.launiversidadlaboral.com/verCurso.php?id=4217
+Guiones del intérprete de comandos. Instituto Puig Castellar, Sta. Coloma de Gramanet. http://elpuig.xeill.net/Members/vcarceler/c1/didactica/apuntes/ud3/na6
+EcuRed, Enciclopedia Cubana. http://www.ecured.cu/GNU/Linux#Como_sistema_de_programaci.C3.B3n
+Manual de Amarok: Gestor de guiones. https://userbase.kde.org/Amarok/es#Gestor_de_guiones
+Manual de KPPP (KDE): Pestaña de Guion de inicio de sesión. https://docs.kde.org/stable4/es/kdenetwork/kppp/account-login-script.html
+Manual de GIMP: Uso de guiones Script-Fu. https://docs.gimp.org/es/gimp-concepts-script-fu.html
+
+    Manual de Gentoo Linux. Guiones de inicio (init scripts). https://wiki.gentoo.org/wiki/Handbook:AMD64/Working/Initscripts/es#Guiones_de_inicio_.28init_scripts.29]
+
+Enlaces externos
+
+    ¿Qué es un guion (script)?
+    Curso de programación de guiones en bash
+    Conversaciones de Bar - Un libro libre de bash scripting
+
+Categoría:
+
+    Lenguajes interpretados
+
+Menú de navegación
+
+    No has iniciado sesión
+    Discusión
+    Contribuciones
+    Crear una cuenta
+    Acceder
+
+    Artículo
+    Discusión
+
+    Leer
+    Editar
+    Ver historial
+
+Buscar
+
+    Portada
+    Portal de la comunidad
+    Actualidad
+    Cambios recientes
+    Páginas nuevas
+    Página aleatoria
+    Ayuda
+    Donaciones
+    Notificar un error
+
+Imprimir/exportar
+
+    Crear un libro
+    Descargar como PDF
+    Versión para imprimir
+
+En otros proyectos
+
+    Wikimedia Commons
+
+Herramientas
+
+    Lo que enlaza aquí
+    Cambios en enlazadas
+    Subir archivo
+    Páginas especiales
+    Enlace permanente
+    Información de la página
+    Elemento de Wikidata
+    Citar esta página
+
+En otros idiomas
+
+    العربية
+    Català
+    English
+    हिन्दी
+    Bahasa Indonesia
+    Bahasa Melayu
+    Português
+    Русский
+    中文
+
+Editar enlaces
+
+    Se editó esta página por última vez el 18 abr 2017 a las 15:05.
+    El texto está disponible bajo la Licencia Creative Commons Atribución Compartir Igual 3.0; pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros términos de uso y nuestra política de privacidad.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, Inc., una organización sin ánimo de lucro.
+
+    Política de privacidad
+    Acerca de Wikipedia
+    Limitación de responsabilidad
+    Desarrolladores
+    Declaración de cookies
+    Versión para móviles
+
+    Wikimedia Foundation	
+    Powered by MediaWiki	
